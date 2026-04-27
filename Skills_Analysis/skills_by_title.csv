@@ -1,0 +1,51 @@
+title,rank,skill,count
+Data Analyst,1,sql,3864
+Data Analyst,2,excel,2556
+Data Analyst,3,power_bi,2149
+Data Analyst,4,python,2032
+Data Analyst,5,tableau,1946
+Senior Data Analyst,1,sql,1366
+Senior Data Analyst,2,tableau,888
+Senior Data Analyst,3,python,853
+Senior Data Analyst,4,power_bi,696
+Senior Data Analyst,5,excel,558
+Data Scientist,1,python,741
+Data Scientist,2,sql,537
+Data Scientist,3,r,400
+Data Scientist,4,tableau,224
+Data Scientist,5,spark,171
+Data Analyst Ii,1,sql,584
+Data Analyst Ii,2,power_bi,553
+Data Analyst Ii,3,excel,490
+Data Analyst Ii,4,python,423
+Data Analyst Ii,5,r,334
+Business Data Analyst,1,sql,332
+Business Data Analyst,2,excel,166
+Business Data Analyst,3,power_bi,160
+Business Data Analyst,4,tableau,129
+Business Data Analyst,5,python,96
+Lead Data Analyst,1,sql,175
+Lead Data Analyst,2,tableau,100
+Lead Data Analyst,3,python,96
+Lead Data Analyst,4,power_bi,73
+Lead Data Analyst,5,r,47
+Survey Data Analyst,1,sas,5
+Survey Data Analyst,2,spss,5
+Survey Data Analyst,3,spreadsheet,4
+Survey Data Analyst,4,r,4
+Survey Data Analyst,5,powerpoint,4
+Data Engineer,1,sql,297
+Data Engineer,2,python,276
+Data Engineer,3,aws,175
+Data Engineer,4,azure,137
+Data Engineer,5,spark,117
+Business Intelligence Analyst,1,sql,259
+Business Intelligence Analyst,2,power_bi,197
+Business Intelligence Analyst,3,tableau,158
+Business Intelligence Analyst,4,excel,124
+Business Intelligence Analyst,5,python,102
+Data Analyst Iii,1,sql,244
+Data Analyst Iii,2,power_bi,193
+Data Analyst Iii,3,python,159
+Data Analyst Iii,4,excel,136
+Data Analyst Iii,5,tableau,133
