@@ -72,18 +72,6 @@ job-market-analysis/
 * SQL, Python, Excel, and Power BI were among top requested skills.
 * Major cities offered higher salaries and more openings.
 
-## How to Run
-
-1. Clone the repository
-2. Install requirements
-3. Run Python scripts inside folders
-
-```bash
-git clone <repo-url>
-cd job-market-analysis
-python sql_analysis/sql_analysis.py
-```
-
 ## Future Improvements
 
 * Interactive Power BI dashboard
