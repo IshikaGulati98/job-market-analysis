@@ -1,0 +1,34 @@
+schedule_type,count,pct
+Full-time,45082,72.77
+Contractor,9284,14.99
+Contractor and Temp work,3130,5.05
+Full-time and Part-time,1187,1.92
+Part-time,1144,1.85
+Internship,516,0.83
+Full-time and Contractor,349,0.56
+Full-time and Temp work,283,0.46
+Unknown,246,0.4
+Full-time and Internship,192,0.31
+Temp work,169,0.27
+"Full-time, Part-time, and Internship",92,0.15
+"Full-time, Contractor, and Temp work",85,0.14
+"Part-time, Contractor, and Temp work",47,0.08
+Part-time and Contractor,30,0.05
+Volunteer,27,0.04
+Part-time and Internship,21,0.03
+"Full-time, Part-time, and Contractor",13,0.02
+Temp work and Internship,9,0.01
+Part-time and Temp work,9,0.01
+Full-time and Per diem,9,0.01
+"Full-time, Part-time, and Temp work",5,0.01
+"Full-time, Temp work, and Internship",4,0.01
+Contractor and Per diem,4,0.01
+Per diem,2,0.0
+Part-time and Per diem,2,0.0
+Part-time and Full-time,2,0.0
+"Full-time, Temp work, and Per diem",2,0.0
+"Full-time, Part-time, and Per diem",2,0.0
+Full-time and Volunteer,2,0.0
+"Contractor, Temp work, and Per diem",2,0.0
+Temp work and Per diem,1,0.0
+"Part-time, Temp work, and Internship",1,0.0
