@@ -1,5 +1,3 @@
-# job-market-analysis
-Analyzing 60K+ job postings using Python and SQL
 # Job Market Analysis
 
 Analyzed 60K+ job postings to uncover trends in hiring demand, salaries, remote work, locations, and in-demand skills using Python and SQL.
